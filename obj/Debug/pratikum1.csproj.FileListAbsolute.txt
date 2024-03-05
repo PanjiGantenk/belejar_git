@@ -1,0 +1,7 @@
+E:\23.11.5640\pratikum 1\pratikum1\pratikum1\bin\Debug\pratikum1.exe.config
+E:\23.11.5640\pratikum 1\pratikum1\pratikum1\bin\Debug\pratikum1.exe
+E:\23.11.5640\pratikum 1\pratikum1\pratikum1\bin\Debug\pratikum1.pdb
+E:\23.11.5640\pratikum 1\pratikum1\pratikum1\obj\Debug\pratikum1.csproj.AssemblyReference.cache
+E:\23.11.5640\pratikum 1\pratikum1\pratikum1\obj\Debug\pratikum1.csproj.CoreCompileInputs.cache
+E:\23.11.5640\pratikum 1\pratikum1\pratikum1\obj\Debug\pratikum1.exe
+E:\23.11.5640\pratikum 1\pratikum1\pratikum1\obj\Debug\pratikum1.pdb
